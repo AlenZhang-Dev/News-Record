@@ -1,6 +1,4 @@
-# News Record
-
-## The Economist 
+# News Record - The Economist
 
 | The Economist 2020 |
 | ---------- |
