@@ -38,7 +38,7 @@ The New Yorker，涵盖美国新闻、社评、小说、批评、讽刺、漫画
 
 联系：
 
-Telegram：[AlenMing](t.me/AlenMing)
+Telegram：[AlenMing](https://t.me/AlenMing)
 
 
 
