@@ -4,7 +4,7 @@
 
 旨在推荐相对优质中立的刊物，同时提供刊物下载。
 
-目前维护The Economist 和 The New Yorker。
+目前维护The Economist 和 The New Yorker，均为每周一更。
 
 
 
