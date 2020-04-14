@@ -36,9 +36,9 @@ The New Yorker，涵盖美国新闻、社评、小说、批评、讽刺、漫画
 
 
 
-联系：
+同步更新：
 
-Telegram：[AlenMing](https://t.me/AlenMing)
+Telegram Channel：[NewsRecord](https://t.me/newsrecord)
 
 
 
