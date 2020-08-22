@@ -26,7 +26,7 @@ The New Yorker, A magazine of American news, editorials, fiction, criticism, sat
 
 ## Instructions
 
-Update ttime: Try to update weekly. 
+Update time: Try to update weekly. 
 
 File format: The Economist is basically available in epub, mobi, and pdf formats, The New Yorker is available in pdf format, and some are available in mobi format.
 
