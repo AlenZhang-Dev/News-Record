@@ -22,7 +22,9 @@ The Economist, A British weekly news paper, owned by the Economist Group, which 
 
 The New Yorker, A magazine of American news, editorials, fiction, criticism, satire, cartoons, and poetry, The New Yorker is a journal of New York cultural life, and in its early years, The New Yorker prided itself on being a uniquely complex piece of metropolitan culture that existed in a time of uncertainty. It is known for its illustrations and themed story covers, its commentary on popular culture, its focus on modern fiction through short stories and literary criticism, and its in-depth coverage of political and social events in the United States and internationally, featuring unique one-panel cartoons that run the gamut of news perspectives on political and social issues.
 
+- ### [Time][T]
 
+Time, an American weekly news magazine and news website published and based in New York City. 。
 
 ## Instructions
 
@@ -47,6 +49,9 @@ Telegram Channel：[NewsRecord](https://t.me/newsrecord)
 [E]:./TheEconomist/README.md
 
 [N]:./TheNewYorker/README.md
+[T]:./Time
+
+
 
 
 
