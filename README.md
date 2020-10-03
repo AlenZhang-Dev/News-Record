@@ -1,6 +1,6 @@
 # News Record
 
-[:us: English Version](README.md)
+[:us: English Version](README_EN.md)
 
 ## 关于项目
 
