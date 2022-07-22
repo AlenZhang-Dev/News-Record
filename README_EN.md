@@ -16,15 +16,9 @@ Currently maintains **The Economist** and **The New Yorker**, weekly update.
 
 The Economist, A British weekly news paper, owned by the Economist Group, which is more liberal than conservative in its outlook and has described itself as "a Scottish liberal product of Adam Smith and David Hume". The Economist is not an economics research or academic journal. It is a general news and commentary journal on global politics, economics, culture, science and technology, with an emphasis on providing in-depth analysis and commentary on these issues. In keeping with the journal's tradition, the names of its contributors are withheld from all columns to maintain a consistent tone, and the journal expresses a unified worldview in a straightforward and rigorous writing style and compactness.
 
-
-
 - ### [The New Yorker][N]
 
 The New Yorker, A magazine of American news, editorials, fiction, criticism, satire, cartoons, and poetry, The New Yorker is a journal of New York cultural life, and in its early years, The New Yorker prided itself on being a uniquely complex piece of metropolitan culture that existed in a time of uncertainty. It is known for its illustrations and themed story covers, its commentary on popular culture, its focus on modern fiction through short stories and literary criticism, and its in-depth coverage of political and social events in the United States and internationally, featuring unique one-panel cartoons that run the gamut of news perspectives on political and social issues.
-
-- ### [Time][T]
-
-Time, an American weekly news magazine and news website published and based in New York City. 。
 
 ## Instructions
 
