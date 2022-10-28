@@ -36,11 +36,9 @@ The New Yorker，涵盖美国新闻、社评、小说、批评、讽刺、漫画
 
 同步更新：
 
+注：该仓库停止更新，移步Telegram Channel。
+
 Telegram Channel：[NewsRecord](https://t.me/newsrecord)
-
-注：该仓库会陆续更新至2022年末，此后仅在Telegram Channel更新。
-
-
 
 [E]:./TheEconomist/README.md
 
